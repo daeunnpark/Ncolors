@@ -1,1 +1,2 @@
-ucrop/src/main/jni/uCrop.cpp/* linguist-vendored
+* linguist-vendored
+*.java linguist-vendored=false
