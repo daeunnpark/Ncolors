@@ -4,8 +4,8 @@ User chooses fingers to apply their design by pressing each finger(turn it "on")
 
 Google map indicating nail salons in close proximity of the location of users and relevant information will be availiable soon.  
 
-# Screenshots
-![alt tag](https://github.com/daeunnpark/Ncolors/files/1989158/Ncolors.-.screenshot.1.pdf)
+# Screenshot
+![Screenshot](https://github.com/daeunnpark/Ncolors/files/1989158/Ncolors.-.screenshot.1.pdf)
 
 # Demo 
 Demo video is available here: https://www.youtube.com/watch?v=8DHrN3rB2ko
